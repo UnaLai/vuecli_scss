@@ -1,29 +1,8 @@
-# vuecli_scss
+# Vue 專案中引入 SCSS 檔案的四種方法
 
-## Project setup
-```
-npm install
-```
+- 引入於個別 Component
+- 引入於 App.vue
+- 引入於 main.js
+- 引入於 vue.config.js (使用 webpack 引入)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+詳細紀錄於此文章：[連結](https://)
