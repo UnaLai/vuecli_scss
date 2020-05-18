@@ -100,7 +100,7 @@ export default {
 // @import "../assets/scss/main.scss";
 h3 {
   margin: 40px 0 0;
-  // color: $mainColor;
+  color: $mainColor;
 }
 ul {
   list-style-type: none;
